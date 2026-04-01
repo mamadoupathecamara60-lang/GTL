@@ -1,0 +1,6 @@
+
+initialisation d'un depot github
+
+git config --global user.name "mamadoupathecamara60-lang"
+git config --global user.email mamadoupathecamara60@gmail.com
+git config --global --list
